@@ -1,4 +1,4 @@
-# Sonia_Ejercicios_Pseudocodigo
+# Sonia_Ejercicios_Condicionales
 
 He realizado los 5 ejercicios propuestos contestando desarrollando los programas que más se ajustaban a los problemas propuestos. 
 He realizado 5 ramas (la primera de ellas es la "master") en la que a partir de ella he ido desarrollando diefrentes versiones de la rama principal. 
